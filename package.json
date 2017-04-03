@@ -1,0 +1,29 @@
+{
+  "name": "neutrino-middleware-smartchunk",
+  "description": "Neutrino middleware to create smarter chunks that only contain utilized modules",
+  "author": "Jarid Margolin <jaridmargolin@gmail.com>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "neutrino",
+    "neutrino-middleware",
+    "chunks",
+    "common-chunks"
+  ],
+  "homepage": "https://github.com/jaridmargolin/neutrino-middleware-smartchunk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaridmargolin/neutrino-middleware-smartchunk"
+  },
+  "bugs": {
+    "url": "https://github.com/jaridmargolin/neutrino-middleware-smartchunk/issues"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "resolve-cwd": "^1.0.0",
+    "webpack": "^2.3.2"
+  },
+  "peerDependencies": {
+    "neutrino": "^5.0.1"
+  }
+}
