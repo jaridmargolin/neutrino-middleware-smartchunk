@@ -1,3 +1,7 @@
+Moved to: [neutrino-contrib/neutrino-middleware-smartchunk](https://github.com/jaridmargolin/neutrino-contrib/tree/master/packages/neutrino-middleware-smartchunk)
+
+---
+
 # Neutrino "SmartChunk" Middleware
 [![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 
